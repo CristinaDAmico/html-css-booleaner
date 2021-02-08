@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    font-family: 'Merriweather', serif;
+    background-color: black;
+    color: white;
+  }
+   /* stile barra e logo */
+  header{
+    width: 100%;
+    height: 100px;
+    background-color: #2984cc;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+  }
+  
+  .container-logo{
+    width: 70%;
+    margin: auto;
+  }
+  
+  #logo{
+    height: 50px;
+    margin: auto;
+    margin-top: 40px;
+  }
+  
+  /* contenuto */
+  main{
+    width: 70%;
+    margin: auto;
+  }
+  
+  
+   h1{
+     font-size: 40px;
+   }
+  
+   h3, h4{
+     color: grey;
+   }
+  
+   .blu{
+     color: #2984cc;
+   }
+  
+   .Tim{
+     width: 450px;
+     height: 350px;
+   }
+  
+   p{
+     margin-top: 30px;
+   }
+  
+   section{
+     margin-top: 20px;
+   }
+  
+   /* tabella */
+   table{
+     border-collapse: collapse;
+   }
+  
+   th{
+     color: white;
+     text-align: left;
+   }
+  
+   .ultima-colonna{
+     width: 50%;
+   }
+  
+   .one{
+     background: #2984cc;
+   }
+  
+   .two{
+     background: lightblue;
+   }
+  
+   /* altro testo */
+   .giallo{
+     background: yellow;
+   }
+  
+   /* sezione finale */
+   .monitor{
+     width: 230px;
+     height: 150px;
+     background-image: url(../img/monitor.jpg);
+     background-size: cover;
+     background-position: center;
+     margin-bottom: 20px;
+     margin-top: 20px;
+     color: white;
+     font-size: 20px;
+     font-weight: bold;
+   }
+  
+   .grafica{
+     width: 230px;
+     height: 150px;
+     background-image: url(../img/graph.jpg);
+     background-size: cover;
+     background-position: center;
+     color: white;
+     font-size: 20px;
+     font-weight: bold;
+   }
+  
+   .scritta{
+     margin-left: 20px;
+   }
