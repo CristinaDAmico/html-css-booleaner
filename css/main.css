@@ -13,7 +13,7 @@
   header{
     width: 100%;
     height: 100px;
-    background-color: #2984cc;
+    background-color: #42f769;
     background-image: url(../img/pattern.png);
     background-size: contain;
   }
@@ -38,14 +38,15 @@
   
    h1{
      font-size: 40px;
+     color: tomato;
    }
   
    h3, h4{
-     color: grey;
+     color: yellow;
    }
   
    .blu{
-     color: #2984cc;
+     color: rgb(240, 96, 13);
    }
   
    .Tim{
@@ -76,16 +77,16 @@
    }
   
    .one{
-     background: #2984cc;
+     background: #42f769;
    }
   
    .two{
-     background: lightblue;
+     background: #84f79d;
    }
   
    /* altro testo */
    .giallo{
-     background: yellow;
+     background: rgb(245, 129, 216);
    }
   
    /* sezione finale */
